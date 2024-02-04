@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project>
     <PropertyGroup>
         <CodeAnalysisRuleSet>$(SolutionDir)\tacitfirefox.ruleset</CodeAnalysisRuleSet>
         <ImplicitUsings>disable</ImplicitUsings>
