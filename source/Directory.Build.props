@@ -1,9 +1,4 @@
 <Project>
     <Import Project="../Directory.Build.props"/>
 
-    <PropertyGroup>
-        <LangVersion>latest</LangVersion>
-        <CodeAnalysisRuleSet>$(SolutionDir)\tacitfirefox.ruleset</CodeAnalysisRuleSet>
-    </PropertyGroup>
-
 </Project>
